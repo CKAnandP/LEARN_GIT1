@@ -1,0 +1,71 @@
+In command prompt FOR CHECKING CURRENT CONFIG
+git config user.name
+git config user.email
+
+CLEAR SCREEN
+cls
+
+CONFIGURATION COMMAND
+git config --global user.name "user"
+git config --global user.email "email"
+
+
+To develop a framework for systematic identification of ideal granularity of product demand forecasting regions, we can use the following approach:
+
+Data Pre-processing:
+Before we begin with demand forecasting, we need to pre-process the data. The first step would be to remove any outliers and duplicates from the dataset. We can use clustering algorithms to group similar data points together and remove any duplicates that may exist. We can also remove any data points that have missing or incomplete values.
+
+Analyze demand patterns:
+We need to analyze the demand patterns for each product SKU over time to identify any trends or seasonality. We can use time series analysis techniques to identify any patterns in the data. This will help us to understand the demand patterns for each product SKU at different locations.
+
+Define geographic regions:
+Once we have identified the demand patterns for each product SKU, we can start defining geographic regions. We can use clustering algorithms to group similar locations together based on their demand patterns. We can start with a coarse clustering approach and gradually refine it until we find the ideal granularity for demand forecasting.
+
+Validate the demand forecast:
+We need to validate the demand forecast for each product SKU at different geographic regions. We can use statistical techniques to compare the actual demand with the forecasted demand. This will help us to identify any inaccuracies in our demand forecasting and refine our approach.
+
+Evaluate the results:
+Once we have validated the demand forecast, we need to evaluate the results. We can compare the accuracy of our demand forecasting at different geographic regions and identify the ideal granularity for demand forecasting. We can also evaluate the impact of demand forecasting on inventory optimization and identify any areas of improvement.
+
+Using the sample data provided, we can follow this approach and identify the ideal granularity for demand forecasting. We can start by pre-processing the data and removing any outliers and duplicates. We can then analyze the demand patterns for each product SKU and define geographic regions using clustering algorithms. We can validate the demand forecast and evaluate the results to identify the ideal granularity for demand forecasting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"NTPC Limited, New Delhi, India                                                                                                           07/2018 – 06/2022
+Analytics Executive (Operations & Commercial-NVVN)
+•	Awards: Rising Star Employee (NTPC Limited, 2021) and also rated as outstanding performer by RO in my department.
+•	Improved supply chain efficiency and profitability (~7%) through administration of operations and commercial analytics, analyzing power demand-supply patterns and prices for 70 vendors and 22 customers : Elaborate:   So basicallly we use to book the transmission line capacity in one month in advance based on the time series forecasts of past months demand and supply data to fulfil the long term contract requirement and allocate the supply of 1466 MW accordingly and if any extra power was left was sold to open market at extra cost in day-ahead open market and make an extra profit out of it.  Also, lets say if the acutual supply is less then the required then we will have to buy it from the open market to maintain the grid frequency. So lets just say if the we overbooked or underbooked the capacity for power and the actual demand deviates it, then they will have to pay the pentalty for deviating the frequency of the grid. So it was our job to improve the supply chain efficency by forecasting the demand and supply in order to minimize the DSM hence maximizing the profit and optimizing the profit.
+•	Streamlined supply chain operations by reducing lead times and improving productivity through the implementation of Robotic Process Automation, resulting in a savings of 60 man-days per month:  Elaborate, along with utomated invoice processing for 5000+ vendors, customers and regulatory bodies using VBA and Excel-based tools:  :- Here, in the continuation of the above process, with the integration of SAP and Excel based system through automation for raising the bills which includes the details of various elements for calculation the energy prices, settlement of actual supply data  based on the govermnment released data and also raising the prorata bill for the current month thereby decreasing the requirement of 2 man power for the work. Hence improving and accounting for profitability of the company.
+•	Developed effective supply chain forecasting by utilizing time series analysis and Python, which helped the company successfully bid in the RTM market during COVID: Elaborate:- So there was this requirement of the company to estimate the bid price for the newly introduced Round the clock market based on the already exisiting day ahead and other markets, and helped in sucessful bid submission thereby accounting for the profitablity.
+•	Contributed to investment decisions by developing dynamic financial models for solar levelized tariff determination, conducting sensitivity analysis, and preparing financial analysis, cost-benefit analysis, and market feasibility reports for different business heads : Elaborate:-   
+•	Assisted in identifying investment opportunities for business development by conducting a country profiling project, assessing feasibility, identifying solar sites, and analyzing energy policies in neighboring countries
+
+HEMS CORPORATION, Korba, Chhattisgarh, India                       	                                             07/2017 – 05/2018
+Business Developer and Team Manager
+•	Led a team of 25 personnel in optimizing the operational processes for PH level maintenance, chemical dozing, and to ensure compliance with quality standards for water treatment plant through excel based process optimization.
+•	Also, prepared cost estimates and developed value propositions for tender proposals, resulting in a 30% increase in successful bids for the organization
+•	Developed and maintained dashboards and reports for management on key supply chain metrics, such as inventory levels, lead times, and supplier performance"     Based on the above exceperinces, help me with the small bullet points for my resume where each bullet point should be structured in such a way to cover the challenges, action and the result in general. 
